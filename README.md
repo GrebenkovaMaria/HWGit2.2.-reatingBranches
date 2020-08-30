@@ -12,7 +12,7 @@ to take this repository please copy [link](https://github.com/GrebenkovaMaria/HW
 * Google Chrome
 * Visual Studio Code
 
-## Lisence
+## License
 It's open and free, uncommercial project that's why you can make your contribution in our code without some restrictions
 
 `git clone https://github.com/GrebenkovaMaria/HWNeuroStartUp.git`
